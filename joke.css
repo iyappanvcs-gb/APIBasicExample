@@ -1,0 +1,17 @@
+
+        body {
+            display:flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            background-color: #efefef;
+        }
+        
+        .jokes-container {
+            padding: 25px;
+            box-shadow: 0 5px 12px rgba(0,0,0,0.4);
+            background-color: #fff;
+            color: #333;
+            border-radius: 5px;
+        }
+ 
